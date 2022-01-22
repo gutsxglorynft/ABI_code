@@ -1,5 +1,4 @@
-[
-	{
+{
 		"inputs": [
 			{
 				"internalType": "string",
@@ -685,4 +684,3 @@
 		"stateMutability": "payable",
 		"type": "function"
 	}
-]
